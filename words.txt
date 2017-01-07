@@ -1,0 +1,5 @@
+0 bus
+1 horse
+2 dinosaur
+3 flower
+4 elephant
